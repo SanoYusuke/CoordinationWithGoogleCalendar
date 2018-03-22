@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="studiohokuto.coordinationwithgooglecalendar.MainActivity">
+    tools:context="studiohokuto.coordinationwithgooglecalendar.activity.MainActivity">
 
     <!-- Fragmentの格納領域 -->
     <LinearLayout

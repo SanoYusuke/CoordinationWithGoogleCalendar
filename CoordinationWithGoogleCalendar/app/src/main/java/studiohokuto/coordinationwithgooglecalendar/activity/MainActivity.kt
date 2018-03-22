@@ -1,7 +1,8 @@
-package studiohokuto.coordinationwithgooglecalendar
+package studiohokuto.coordinationwithgooglecalendar.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import studiohokuto.coordinationwithgooglecalendar.R
 
 class MainActivity : AppCompatActivity() {
 
